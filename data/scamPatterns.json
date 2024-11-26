@@ -1,0 +1,27 @@
+{
+    "tech_support": {
+      "keywords": ["virus", "computer", "microsoft", "windows", "technical support"],
+      "patterns": [
+        "your computer (has|is|was) infected",
+        "microsoft support",
+        "remote(ly)? access"
+      ]
+    },
+    "banking": {
+      "keywords": ["account", "bank", "transfer", "fraud", "suspicious"],
+      "patterns": [
+        "your account (has been|is) compromised",
+        "suspicious transaction",
+        "verify your identity"
+      ]
+    },
+    "government": {
+      "keywords": ["tax", "irs", "social security", "medicare"],
+      "patterns": [
+        "social security (has been|is) suspended",
+        "irs warrant",
+        "tax (fraud|evasion)"
+      ]
+    }
+  }
+  
